@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Maxime Dewynter
 
-**Frontend Developer | Stockholm, Sweden**
+**Web Developer | Stockholm, Sweden**
 
 ---
 
 ## 🚀 About Me
 
-After ten years in finance and HR in Paris, I decided to follow my passion for technology and moved into web development. Today, I focus on building modern, accessible, and maintainable frontends with **React** and **Next.js**. My business background helps me understand both technical and non-technical needs, so I can create digital products that truly make a difference.
+After ten years in finance and HR in Paris, I decided to follow my passion for technology and moved into web development. Today, I focus on building modern, accessible, and maintainable web applications with **React**, **Next.js**, and **TypeScript**. My business background helps me understand both technical and non-technical needs, so I can create digital products that truly make a difference.
 
 - **Location:** Stockholm, Sweden
 - **Languages:** French (native), English (professional), Swedish (beginner)
@@ -16,24 +16,27 @@ After ten years in finance and HR in Paris, I decided to follow my passion for t
 ## 📫 Contact
 
 - LinkedIn: [linkedin.com/in/maxime-dewynter](https://linkedin.com/in/maxime-dewynter/)
-- Portfolio: [my_portfolio-max-dewynter.vercel.app](https://my_portfolio-max-dewynter.vercel.app)
+- Portfolio: [maxdewynter.xyz](https://www.maxdewynter.xyz/)
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Sass, HTML5
-- **UI/UX:** Framer Motion, Shadcn UI, Material UI, Figma
+- **UI/UX:** Framer Motion, Shadcn UI, Material UI, Figma, Responsive Design, Accessibility, SEO
 - **State Management:** MobX, Redux, Zustand
+- **Backend:** Node.js, Express.js, MongoDB
 - **API:** Axios, REST APIs
-- **Testing:** Jest, Storybook
-- **Backend (basics):** Node.js, Express.js, MongoDB
-- **Workflow & Other:** Git & GitHub, Agile (Scrum/Kanban), SEO, Performance & Accessibility, JSON data handling
+- **Testing:** Jest
+- **Workflow & Other:** Git & GitHub, Docker, Vercel, Cloudflare, Sanity (CMS), Agile (Scrum/Kanban), Performance & Optimization, JSON data handling
 - **AI:** Retrieval-Augmented Generation (RAG) chatbot
 
 ---
 
 ## 🌟 Featured Projects
+
+### [✅ Collaborative Todo App](https://arkivia-collaborative-todo.vercel.app/)
+Full-stack collaborative todo application with real-time updates and a modern, responsive UI. Built to support multi-user workflows, authentication, and a smooth task management experience.
 
 ### [💬 Portfolio RAG Chatbot](https://my_portfolio-max-dewynter.vercel.app)
 *Implemented a Retrieval-Augmented Generation (RAG) chatbot on my portfolio website to help visitors learn about my skills, experience, and projects. This interactive feature demonstrates my ability to integrate AI-driven solutions with modern web technologies, enhancing user engagement and accessibility.*
@@ -72,11 +75,12 @@ After ten years in finance and HR in Paris, I decided to follow my passion for t
 
 ## 🧩 Soft Skills
 
-- Analytical thinking & problem-solving
-- Communication & cross-team collaboration
-- Adaptability & continuous learning
+- Analytical Thinking
+- Problem-Solving & Innovation
 - Detail-oriented and quality-driven
-- Cultural awareness & inclusivity
+- Adaptability & continuous learning
+- Communication & cross-team collaboration
+- Leadership & Team Management
 
 ---
 
