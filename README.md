@@ -36,9 +36,9 @@ After ten years in finance and HR in Paris, I decided to follow my passion for t
 ## 🌟 Featured Projects
 
 ### [✅ Collaborative Todo App](https://arkivia-collaborative-todo.vercel.app/)
-Live demo: https://arkivia-collaborative-todo.vercel.app
-Tech (frontend): React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, deployed on Vercel
-Tech (backend): Node.js, Express, REST API, Firebase (Auth & Firestore), deployed on Render
+Live demo: https://arkivia-collaborative-todo.vercel.app  
+Tech (frontend): React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, deployed on Vercel  
+Tech (backend): Node.js, Express, REST API, Firebase (Auth & Firestore), deployed on Render  
 Features: Real-time collaborative task lists, authenticated workspaces, role-based access for shared boards, responsive UI, and a UX designed for teams managing todos together.
 
 ### [⏱️ Natural Cycles Countdown](https://github.com/maxlearns2code/natural-cycles-countdown)
