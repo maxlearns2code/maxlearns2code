@@ -38,7 +38,7 @@ After ten years in finance and HR in Paris, I decided to follow my passion for t
 ### [✅ Collaborative Todo App](https://arkivia-collaborative-todo.vercel.app/)
 Full-stack collaborative todo application with real-time updates and a modern, responsive UI. Built to support multi-user workflows, authentication, and a smooth task management experience.
 
-### [💬 Portfolio RAG Chatbot](https://my_portfolio-max-dewynter.vercel.app)
+### [💬 Portfolio RAG Chatbot](https://www.maxdewynter.xyz/)
 *Implemented a Retrieval-Augmented Generation (RAG) chatbot on my portfolio website to help visitors learn about my skills, experience, and projects. This interactive feature demonstrates my ability to integrate AI-driven solutions with modern web technologies, enhancing user engagement and accessibility.*
 
 ### [🤖 AI Agent Frontend (Google Cloud AI Hackathon)](https://ai-agent-two-olive.vercel.app/)
