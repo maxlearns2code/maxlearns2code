@@ -36,7 +36,15 @@ After ten years in finance and HR in Paris, I decided to follow my passion for t
 ## 🌟 Featured Projects
 
 ### [✅ Collaborative Todo App](https://arkivia-collaborative-todo.vercel.app/)
-Full-stack collaborative todo application with real-time updates and a modern, responsive UI. Built to support multi-user workflows, authentication, and a smooth task management experience.
+Live demo: https://arkivia-collaborative-todo.vercel.app
+Tech (frontend): React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, deployed on Vercel
+Tech (backend): Node.js, Express, REST API, Firebase (Auth & Firestore), deployed on Render
+Features: Real-time collaborative task lists, authenticated workspaces, role-based access for shared boards, responsive UI, and a UX designed for teams managing todos together.
+
+### [⏱️ Natural Cycles Countdown](https://github.com/maxlearns2code/natural-cycles-countdown)
+Live demo: https://natural-cycles-countdown.vercel.app  
+Tech: Angular 20, TypeScript 5, SCSS/CSS Modules, Prettier, Vercel  
+Features: Fully responsive (mobile-first, Figma-accurate), customizable events (title and date), accessible forms and keyboard navigation, SEO-friendly setup (meta description, robots.txt), and easily themable via SCSS variables.
 
 ### [💬 Portfolio RAG Chatbot](https://www.maxdewynter.xyz/)
 *Implemented a Retrieval-Augmented Generation (RAG) chatbot on my portfolio website to help visitors learn about my skills, experience, and projects. This interactive feature demonstrates my ability to integrate AI-driven solutions with modern web technologies, enhancing user engagement and accessibility.*
@@ -48,12 +56,6 @@ Full-stack collaborative todo application with real-time updates and a modern, r
 
 ### [🏐 Volleyball Club Website](https://vb.rågsvedsif.se)
 *Website for Rågsveds IF Volleyball. Features internationalization, dynamic content, and mobile-first responsive design.*
-
-### [💳 ArgentBank](#)
-*Online banking app with React, Redux, and TypeScript. Clean UX, robust state management, and authentication flows.*
-
-### [🏠 Kasa](#)
-*Real estate rental platform. Modern, accessible React app with responsive layouts and reusable components.*
 
 ---
 
