@@ -35,13 +35,19 @@ After ten years in finance and HR in Paris, I decided to follow my passion for t
 
 ## 🌟 Featured Projects
 
+### [🤝 QuickMyCV - Career Managment Platform](https://quickmycv.vercel.app/)
+Live demo: https://quickmycv.vercel.app  
+Tech (frontend): React, Next.js 14, TypeScript, Tailwind CSS, shadcn/ui, deployed on Vercel  
+Tech (backend): Next.js API Routes, Firebase (Auth & Firestore), Vercel Blob (Storage), Resend (Email), Vercel Analytics  
+Features: Drag-and-drop CV & Cover Letter management, version control, instant QR code sharing, email integration with templates, custom domain support, and responsive mobile-first dashboard.
+
 ### [✅ Collaborative Todo App](https://arkivia-collaborative-todo.vercel.app/)
 Live demo: https://arkivia-collaborative-todo.vercel.app  
 Tech (frontend): React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, deployed on Vercel  
 Tech (backend): Node.js, Express, REST API, Firebase (Auth & Firestore), deployed on Render  
 Features: Real-time collaborative task lists, authenticated workspaces, role-based access for shared boards, responsive UI, and a UX designed for teams managing todos together.
 
-### [⏱️ Natural Cycles Countdown](https://github.com/maxlearns2code/natural-cycles-countdown)
+### [⏱️ Natural Cycles Countdown](https://natural-cycles-countdown.vercel.app/)
 Live demo: https://natural-cycles-countdown.vercel.app  
 Tech: Angular 20, TypeScript 5, SCSS/CSS Modules, Prettier, Vercel  
 Features: Fully responsive (mobile-first, Figma-accurate), customizable events (title and date), accessible forms and keyboard navigation, SEO-friendly setup (meta description, robots.txt), and easily themable via SCSS variables.
