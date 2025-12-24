@@ -37,9 +37,9 @@ This mix of business and engineering helps me translate requirements into shippe
 
 ## 🌟 Featured Projects
 
-### [🤝 QuickNet - Career Managment Platform](https://quickmycv.vercel.app/)
+### [🤝 QuickNet - Career Managment Platform](https://quick-net.vercel.app/)
 QuickNet is a career platform that helps job seekers keep all their CVs, cover letters, and pitches in one place, and prepare strong networking pitches for every opportunity.
-- **Live demo:** https://quickmycv.vercel.app  
+- **Live demo:** https://quick-net.vercel.app  
 - **Key features:** Manage multiple CVs and cover letters, practice networking pitches and STAR-based interview answers, and get AI-powered feedback from an integrated career coach.  
 - **Tech:** Next.js, TypeScript, Tailwind CSS, shadcn/ui, Firebase (Auth & Firestore), Vercel Blob (file storage), Resend, Vercel Analytics.​  
 - **Infrastructure:** Frontend and API routes deployed on Vercel, with CV and cover letter files stored in Vercel Blob for scalable, CDN-delivered downloads.
