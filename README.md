@@ -37,42 +37,45 @@ This mix of business and engineering helps me translate requirements into shippe
 
 ## 🌟 Featured Projects
 
-### [🤝 QuickNet - Career Managment Platform](https://quick-net.vercel.app/)
-QuickNet is a career platform that helps job seekers keep all their CVs, cover letters, and pitches in one place, and prepare strong networking pitches for every opportunity.
-- **Live demo:** https://quick-net.vercel.app  
-- **Key features:** Manage multiple CVs and cover letters, practice networking pitches and STAR-based interview answers, and get AI-powered feedback from an integrated career coach.  
-- **Tech:** Next.js, TypeScript, Tailwind CSS, shadcn/ui, Firebase (Auth & Firestore), Vercel Blob (file storage), Resend, Vercel Analytics.​  
-- **Infrastructure:** Frontend and API routes deployed on Vercel, with CV and cover letter files stored in Vercel Blob for scalable, CDN-delivered downloads.
+### 🤝 QuickNet - Your Personal Career HQ
+QuickNet is a comprehensive "Career Operating System" designed to simplify your job search. Track applications, manage unlimited CV versions, and master your elevator pitch—all in one place.
+- **Live demo**: https://quick-net.vercel.app
+- **Key features**:
+    - **Application Tracker**: Organize job applications with Kanban-style status tracking and deep-link assets to each role.
+    - **Asset Hub**: Manage multiple CVs and cover letters with one-click sharing and QR code generation.
+    - **Pitch Trainer**: Practice networking pitches with a built-in customizable teleprompter.
+- **Tech**: Next.js 16 (Turbopack), TypeScript, Tailwind CSS v4, shadcn/ui, Firebase (Auth & Firestore), Vercel Blob (storage), Resend.
+- **Infrastructure**: Full-stack Next.js app deployed on Vercel, utilizing Vercel Blob for secure, high-performance asset delivery.
 
-### [✅ Collaborative Todo App](https://arkivia-collaborative-todo.vercel.app/)  
+### ✅ Collaborative Todo App  
 Designed for teams that need a lightweight shared task board, enabling real-time collaboration, role-based access, and clear ownership of todos.  
 - **Live demo:** https://arkivia-collaborative-todo.vercel.app
 - **Key features:** Real-time collaborative task lists, authenticated workspaces, role-based permissions for shared boards, and a responsive UI optimized for teams.  
 - **Tech:** Next.js (TypeScript), Tailwind CSS, shadcn/ui (frontend on Vercel) + Node.js, Express, Firebase (Auth & Firestore) backend.  
 - **Infrastructure:** Frontend deployed on Vercel, backend REST API deployed with a Node.js/Express service and Firebase as the authentication and database layer.
 
-### [⏱️ Natural Cycles Countdown](https://natural-cycles-countdown.vercel.app/) 
+### ⏱️ Natural Cycles Countdown
 Created to explore pixel-perfect, accessible UI in Angular while giving users a simple way to create and share countdowns to important events.  
 - **Live demo:** https://natural-cycles-countdown.vercel.app  
 - **Key features:** Fully responsive (mobile-first, Figma-accurate) layout, customizable events (title and date), accessible forms and keyboard navigation, and SEO-friendly setup.  
 - **Tech:** Angular 20, TypeScript, SCSS/CSS Modules, Prettier, Vercel.  
 - **Infrastructure:** Deployed on Vercel with an SPA setup and an optimized build pipeline for fast first load on mobile devices.
 
-### [💬 Portfolio RAG Chatbot](https://www.maxdewynter.xyz/)
+### 💬 Portfolio RAG Chatbot
 Helps visitors instantly explore skills, experience, and projects through natural language, showing how AI can improve developer portfolios and onboarding.  
 - **Live demo:** https://www.maxdewynter.xyz  
 - **Key features:** Answers questions about background, tech stack, and projects; guides visitors to relevant sections of the portfolio; improves accessibility for non-technical users.  
 - **Tech:** Next.js, TypeScript, Retrieval-Augmented Generation (RAG) pipeline integrated with vector search.  
 - **Infrastructure:** Portfolio and chatbot deployed on Vercel, with AI calls routed through server-side endpoints for secure key handling.
 
-### [🤖 AI Agent Frontend (Google Cloud AI Hackathon)](https://ai-agent-two-olive.vercel.app/)
+### 🤖 AI Agent Frontend (Google Cloud AI Hackathon)
 Prototype UI for an AI agent platform, built under strict hackathon time constraints to focus on fast iteration and a polished UX.  
 - **Live demo:** https://ai-agent-two-olive.vercel.app  
 - **Key features:** Multi-section layout for agent interactions, theming, smooth animations, and clean state management ready to plug into backend AI services.  
 - **Tech:** Next.js, TypeScript, Tailwind CSS, Framer Motion, shadcn/ui, Zustand.  
 - **Infrastructure:** Frontend deployed on Vercel as a hackathon-ready demo, designed to integrate with Google Cloud AI services via API in future iterations.
 
-### [🏐 Volleyball Club Website](https://vb.rågsvedsif.se)
+### 🏐 Volleyball Club Website
 Designed and launched a multilingual, performance-optimized volleyball club website using Next.js and next-intl, helping the club reach international audiences and improve user engagement across devices.  
 - **Live demo:** https://vb.rågsvedsif.se  
 - **Key features:** Multilingual content, match and training information, dynamic sections for teams and news, and a mobile-first layout so players and families can quickly find what they need.  
